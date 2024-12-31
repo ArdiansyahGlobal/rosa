@@ -15,6 +15,7 @@ class _CalendarScreenState extends State<CalendarScreen> {
   final List<Event> _events = [
     Event(id: '1', title: 'Meeting', date: DateTime.now(), time: TimeOfDay(hour: 14, minute: 0)),
     Event(id: '2', title: 'Birthday Party', date: DateTime.now(), time: TimeOfDay(hour: 18, minute: 0)),
+    Event(id: '3', title: 'Working', date: DateTime.now(), time: TimeOfDay(hour: 18, minute: 0)),
   ];
 
   DateTime _selectedDate = DateTime.now();
