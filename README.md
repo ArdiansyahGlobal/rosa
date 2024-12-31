@@ -1,6 +1,6 @@
 # rosa
 
-A new Flutter project.
+Reminder of social activities.
 
 ## Getting Started
 
